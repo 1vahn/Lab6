@@ -2,3 +2,8 @@ td, th {
 	border: 1px solid;
   }
   
+h1{
+  text-align: center;
+  font-family: 'snell roundhand, cursive', 'cursive' ;
+  font-size: 100px;
+}
