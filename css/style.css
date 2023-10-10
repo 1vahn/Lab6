@@ -1,8 +1,31 @@
 td, th {
-	border: 2px dashed;
-  color: purple;
+  text-align: center;
+  font-family: monaco, Arial;
+	border: 0.5px dashed;
+  color: rgb(242, 119, 242);
+  font-size: 24px;
   }
   
+p {
+  text-align: center;
+  color: rgb(242, 119, 242);
+  font-family: cursive;
+  font-size: 24px;
+}
+
 h1 {
+  text-align: center;
   color: pink;
+  font-family: cursive;
+  font-size: 64px;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 15px 4px;
+  border-collapse: separate;
+}
+
+body {
+  background: linear-gradient(in hsl longer hue 90deg, red 0 0);
 }
