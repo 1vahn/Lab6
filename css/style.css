@@ -31,5 +31,9 @@ body {
 }
 
 tr:nth-child(even) {
-  background: linear-gradient(in hsl longer hue 90 deg, turquoise 0 0);
+  background: linear-gradient(in hsl longer hue 75deg, red 0 0);
+}
+
+tr:nth-child(odd) {
+  background: linear-gradient(in hsl longer hue 285deg, red 0 0);
 }
