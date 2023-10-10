@@ -29,3 +29,7 @@ table {
 body {
   background: linear-gradient(in hsl longer hue 90deg, red 0 0);
 }
+
+tr:nth-child(even) {
+  background: linear-gradient(in hsl longer hue 90 deg, turquoise 0 0);
+}
